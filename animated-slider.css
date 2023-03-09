@@ -40,8 +40,8 @@ body {
 
 .slider {
   display: flex;
-  width: 500%;
-  height: 55rem;
+  width: 50%;
+  height: 50%;
   transition: all 0.25s ease-in;
   transform: translateX(0);
   transform: translate(0%,-150%);
